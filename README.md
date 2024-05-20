@@ -1,5 +1,4 @@
-2rd Toy Project Github
-
+# 2rd Toy Project Github
 =======
 
 [PDF 문서 확인](https://github.com/oncliff-climing/k8s_toy/blob/master/Eucalyptus_K8S_Toy.pdf)
